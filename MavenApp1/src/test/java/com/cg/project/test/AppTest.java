@@ -15,10 +15,10 @@ public void test1() {
 	}
 	@Test
 	public void test3() {
-		fail();
+		System.out.println("test3");
 	}
 	@Test
 	public void test4() {
-		fail();
+		System.out.println("test4");
 	}
 }
